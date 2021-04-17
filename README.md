@@ -108,7 +108,7 @@
 
   - `$ kubectl rollout status deployment/hello`
 
-- Browse your deployed `helloworld` application v2.1 with Japanese settingss.
+- Browse your deployed `helloworld` application v2.1 with Japanese settingss. You will find translation correctly fixed(こんにち**は**).
 
   - http://xxx.xxx.xxx.xxx:XXXXX/ (with Japanese settings)
 
